@@ -10,14 +10,14 @@ A modular, feature-packed Python application for sorting files, undoing actions,
 - **Undo Support (`--undo`)**: Roll back the last organization session and restore files to their original paths.
 - **Date-Based Folders (`--date-sort`)**: Sort files into `Category/YYYY/Month/` based on creation timestamp.
 - **Duplicate Scanner (`--find-duplicates`)**: Uses SHA-256 chunk hashing to move duplicate files into `Duplicates/`.
-- 📦 **Auto-Unzipper (`--unzip`)**: Automatically extracts `.zip` archive files into dedicated folders.
-- 🏷️ **Smart Renamer (`--clean-names`)**: Renames messy UUID or hash filenames (e.g. `00ab967...jpg`) into clean indexed names.
-- 👁️ **Live Watcher (`--watch`)**: Monitors target folder in real-time and auto-sorts new downloads instantly.
-- 🎨 **Desktop GUI (`--gui` or `file-organizer-gui`)**: Launch a modern Graphical Desktop window with feature toggles and progress logs.
+- **Auto-Unzipper (`--unzip`)**: Automatically extracts `.zip` archive files into dedicated folders.
+- **Smart Renamer (`--clean-names`)**: Renames messy UUID or hash filenames (e.g. `00ab967...jpg`) into clean indexed names.
+- **Live Watcher (`--watch`)**: Monitors target folder in real-time and auto-sorts new downloads instantly.
+- **Desktop GUI (`--gui` or `file-organizer-gui`)**: Launch a modern Graphical Desktop window with feature toggles and progress logs.
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```text
 File-Organizer/
@@ -54,7 +54,7 @@ File-Organizer/
 
 ---
 
-## 💻 Manual Commands Guide
+## Manual Commands Guide
 
 ### 1. Launch Desktop GUI Window
 ```bash

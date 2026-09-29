@@ -1,0 +1,3 @@
+# Optional testing and development dependencies
+pytest>=7.0.0
+watchdog>=3.0.0
