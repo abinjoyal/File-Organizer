@@ -1,6 +1,6 @@
 # File Organizer 
 
-A modular, feature-packed Python application for sorting files, undoing actions, detecting duplicates, monitoring folders in real-time, and launching a Graphical Desktop Interface (GUI).
+A modular, feature-packed Python application for sorting files, undoing actions, detecting duplicates, monitoring folders in real-time, and launching a Graphical Desktop Interface.
 
 ---
 
