@@ -42,7 +42,7 @@ File-Organizer/
 │   ├── test_undo.py
 │   └── test_duplicates.py
 │
-├── logs/                          # Log & history storage
+├── logs/                          # Log & history
 │   ├── organizer.log
 │   └── history.json
 │
